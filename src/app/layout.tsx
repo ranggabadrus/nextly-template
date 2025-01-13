@@ -12,9 +12,9 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Learn With Andi",
   description: "Learn With Andi",
-  icons: {
-    icon: "favicon", // Points to the favicon in the public folder
-  },
+  // icons: {
+  //   icon: "favicon", // Points to the favicon in the public folder
+  // },
 };
 
 export default function RootLayout({
