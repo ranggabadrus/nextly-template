@@ -64,8 +64,8 @@ export const Hero = () => {
           </div>
         </div>
       </Container>
-      <Container>
-        {/* <div className="flex flex-col justify-center">
+      {/* <Container>
+        <div className="flex flex-col justify-center">
           <div className="text-xl text-center text-gray-700 dark:text-white">
             Partnership
           </div>
@@ -81,8 +81,8 @@ export const Hero = () => {
               />
             </div>
           </div>
-        </div> */}
-      </Container>
+        </div>
+      </Container> */}
     </>
   );
 };
